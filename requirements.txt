@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+moviepy==1.0.3
+openai-whisper
+imageio-ffmpeg
+numpy<2.0
